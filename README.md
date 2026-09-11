@@ -20,4 +20,4 @@ Selected research code and reproducible analyses will be made available here, in
 
 ## Links
 
-[ORCID](https://orcid.org/0000-0002-8562-8790) · [Google Scholar](#) · [Academic Website](#) · [CV](#)
+[Google Scholar](#) · [Academic Website](#) · [CV](#)
